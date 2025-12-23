@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "可愛いアイシャ",
+  "base_artist": "スティーヴィー・ワンダー",
+  "createdAt": "2025-12-23T16:45:22.186091Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Isn't She Lovely",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/pl_01_Isn't_She_Lovely_Stevie_Wonder.txt"
+    }
+  ]
+}
